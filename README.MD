@@ -12,7 +12,7 @@
 ### Requisito 1
 
 <details>
-        <summary> Função getSpeciesByIds</summary> <br />
+        <summary><strong>Função getSpeciesByIds</strong></summary> <br />
 
 - A função recebe um ID como parâmetro e retorna um array com todos os nomes dos animais dessa espécie.
 
