@@ -1,6 +1,6 @@
 # 🚧 ZOO FUNCTIONS 🚧
 
-### Último Projeto do módulo de Fundamentos Web. Projeto proposto pela Trybe e desenvolvido por Fernando Oliveira. Javascript  e lógica de programação.
+#### Último Projeto do módulo de Fundamentos Web. Projeto proposto pela Trybe e desenvolvido por Fernando Oliveira. Javascript  e lógica de programação.
 
 ##### TODAS AS FUNÇÔES USARAM O ARQUIVO DATA COMO BASE, ESSE ARQUIVO É CRIADO E DE PROPRIEDADE DA TRYBE
 
