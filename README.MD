@@ -38,11 +38,13 @@ Deve retornar:
 <details>
         <summary><strong><code>Função getEmployeeByName</strong></code></summary> <br />
 
-- Recebe como parâmetro uma espécie e uma idade, é retorna um valor de true/false caso os animais dessa espécie tenham essa idade ou sejam mais velhos.
+- Recebe como parâmetro o nome do empregado(Primeiro ou Último Nome) e retorna um obj com as informações desse empregado(o objeto retornado é diferente do data, mostrando o nome do funcionário como FullName e não firstName e LastName
 
 Deve retornar:
-1. booleano caso todos os animais passem.
-* Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getAnimalsOlderThan.js)
+1. caso seja vazio, retorna um objeto vazio {}
+2. caso receba o primeiro nome ou último nome como parâmetro, retorna um objeto com as infos do employee
+
+* Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getEmployeeByName.js)
 </details>
 
 ### Requisito 4
