@@ -77,6 +77,7 @@ Deve retornar:
 
 * Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getEmployeeByName.js)
 </details>
+
 ### Requisito 6
 
 <details>
