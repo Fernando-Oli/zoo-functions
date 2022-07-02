@@ -52,11 +52,15 @@ Deve retornar:
 <details>
         <summary><strong><code>Função getRelatedEmployees</strong></code></summary> <br />
 
-- Recebe como parâmetro uma espécie e uma idade, é retorna um valor de true/false caso os animais dessa espécie tenham essa idade ou sejam mais velhos.
+- Esse requisito tem duas funções avaliavéis. A primeira é isManager, retorna um valor booleano caso o parâmetro passado(ID) seja de uma pessoa que é gerente. O segundo getRelatedEmployees, retorna o nome e sobrenome das pessoas que são geridas por ele.
 
 Deve retornar:
-1. booleano caso todos os animais passem.
-* Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getAnimalsOlderThan.js)
+1. IsManager() = true, caso o Id seja de uma pessoa gerente.
+2. IsManager() = false, caso o Id não seja de uma pessoa gerente.
+3. getRelatedEmployees(para) = array com nome e sobrenome dos employees que são geridos pelo gerenteId dado como parâmetro.
+4. getRelatedEmployees(para) = Se o ID não seja de um gerente, joga um erro 'O id inserido não é ded uma pessoa colaboradora gerente'.
+
+* Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getRelatedEmployees.js)
 </details>
 
 ### Requisito 5
@@ -71,6 +75,8 @@ Deve retornar:
 * Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getAnimalsOlderThan.js)
 </details>
 
+* Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getEmployeeByName.js)
+</details>
 ### Requisito 6
 
 <details>
