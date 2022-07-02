@@ -19,3 +19,15 @@ Deve retornar:
 2. array vazio '[]', caso não receba parâmetro.
   
 </details>
+
+### Requisito 2
+
+<details>
+        <summary><strong>Função getAnimalsOlderThan</strong></summary> <br />
+
+- Recebe como parâmetro uma espécie e uma idade, é retorna um valor de true/false caso os animais dessa espécie tenham essa idade ou sejam mais velhos.
+
+Deve retornar:
+1. booleano caso todos os animais passem.
+  
+</details>
