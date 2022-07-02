@@ -72,8 +72,6 @@ Deve retornar:
 
 Deve retornar:
 1. booleano caso todos os animais passem.
-* Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getAnimalsOlderThan.js)
-</details>
 
 * Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getEmployeeByName.js)
 </details>
