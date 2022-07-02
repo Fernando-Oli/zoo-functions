@@ -17,7 +17,7 @@
 
 Deve retornar:
 1. baseado no número de parâmetros enviados.
-2. array vazio '[]', caso não receba parâmetro.
+2. array vazio '[]', caso não receba parâmetro. <br />
 <a href=https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getSpeciesByIds.js“>Arquivo JS</a>
 </details>
 
