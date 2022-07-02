@@ -52,11 +52,11 @@ Deve retornar:
 <details>
         <summary><strong><code>Função getRelatedEmployees</strong></code></summary> <br />
 
-- Esse requisito tem duas funções avaliavéis. A primeira é isManager, retorna um valor booleano caso o parâmetro passado(ID) seja de uma pessoa que é gerente. O segundo getRelatedEmployees, retorna o nome e sobrenome das pessoas que são geridas por ele.
+- Esse requisito tem duas funções avaliavéis. A primeira é isManager, retorna um valor booleano de acordo com o parâmetro passado. O segundo getRelatedEmployees, retorna o nome e sobrenome das pessoas que são geridas por ele.
 
 Deve retornar:
-1. IsManager() = true, caso o Id seja de uma pessoa gerente.
-2. IsManager() = false, caso o Id não seja de uma pessoa gerente.
+1. IsManager(para) = true, caso o Id seja de uma pessoa gerente.
+2. IsManager(para) = false, caso o Id não seja de uma pessoa gerente.
 3. getRelatedEmployees(para) = array com nome e sobrenome dos employees que são geridos pelo gerenteId dado como parâmetro.
 4. getRelatedEmployees(para) = Se o ID não seja de um gerente, joga um erro 'O id inserido não é ded uma pessoa colaboradora gerente'.
 
