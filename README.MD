@@ -9,7 +9,7 @@
 
 # Requisitos:
 <details>
-<summary>Oi<br>
+<summary> # Requisito 1<br>
 1. Função getSpeciesByIds
 
 - A função recebe um ID como parâmetro e retorna um array com todos os nomes dos animais dessa espécie.
