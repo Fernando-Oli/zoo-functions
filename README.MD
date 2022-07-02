@@ -58,7 +58,7 @@ Deve retornar:
 1. IsManager(para) = true, caso o Id seja de uma pessoa gerente.
 2. IsManager(para) = false, caso o Id não seja de uma pessoa gerente.
 3. getRelatedEmployees(para) = array com nome e sobrenome dos employees que são geridos pelo gerenteId dado como parâmetro.
-4. getRelatedEmployees(para) = Se o ID não seja de um gerente, joga um erro 'O id inserido não é ded uma pessoa colaboradora gerente'.
+4. getRelatedEmployees(para) = Se o ID não seja de um gerente, joga um erro 'O id inserido não é de uma pessoa colaboradora gerente'.
 
 * Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getRelatedEmployees.js)
 </details>
