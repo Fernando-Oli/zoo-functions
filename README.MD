@@ -68,12 +68,14 @@ Deve retornar:
 <details>
         <summary><strong><code>Função countAnimals</strong></code></summary> <br />
 
-- Recebe como parâmetro uma espécie e uma idade, é retorna um valor de true/false caso os animais dessa espécie tenham essa idade ou sejam mais velhos.
+- Essa função tem o objetivo de retornar a quantidade de animais por espécie dentro de um objeto.
 
 Deve retornar:
-1. booleano caso todos os animais passem.
+1. caso o parâmetro seja vazio, todos as espécies com as quantidade dos animais por espécie.
+2. caso o parâmetro tenha uma espécie, retorna o número de animais nessa espécie.
+3. caso o parâmetro tenha uma espécie e sexo, retorna o número de animais por sexo e espécie.
 
-* Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/getEmployeeByName.js)
+* Arquivo da função: [Arquivo JS](https://github.com/Fernando-Oli/zoo-functions/blob/main/Arquivos%20dos%20requisitos/countAnimals.js)
 </details>
 
 ### Requisito 6
