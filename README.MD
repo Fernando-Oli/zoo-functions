@@ -21,3 +21,36 @@ Deve retornar:
 2. array vazio '[]', caso não receba parâmetro.
   
 </details>
+  <details>
+  
+<summary> Função getSpeciesByIds<br>
+
+- A função recebe um ID como parâmetro e retorna um array com todos os nomes dos animais dessa espécie.
+
+Deve retornar:
+1. baseado no número de parâmetros enviados.
+2. array vazio '[]', caso não receba parâmetro.
+  
+</details>
+    <details>
+  
+<summary> Função getSpeciesByIds<br>
+
+- A função recebe um ID como parâmetro e retorna um array com todos os nomes dos animais dessa espécie.
+
+Deve retornar:
+1. baseado no número de parâmetros enviados.
+2. array vazio '[]', caso não receba parâmetro.
+  
+</details>
+      <details>
+  
+<summary> Função getSpeciesByIds<br>
+
+- A função recebe um ID como parâmetro e retorna um array com todos os nomes dos animais dessa espécie.
+
+Deve retornar:
+1. baseado no número de parâmetros enviados.
+2. array vazio '[]', caso não receba parâmetro.
+  
+</details>
