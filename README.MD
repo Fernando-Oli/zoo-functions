@@ -23,7 +23,7 @@ Deve retornar:
 ### Requisito 2
 
 <details>
-        <summary><strong>Função getAnimalsOlderThan</strong></summary> <br />
+        <summary><strong><code>Função getAnimalsOlderThan</strong></code></summary> <br />
 
 - Recebe como parâmetro uma espécie e uma idade, é retorna um valor de true/false caso os animais dessa espécie tenham essa idade ou sejam mais velhos.
 
